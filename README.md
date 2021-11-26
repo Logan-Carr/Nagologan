@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nagologan
 - 👀 I’m interested in ... Cybersecurity / Pentesting 
-- 🌱 I’m currently learning ... Python and the basics
+- 🌱 I’m currently learning ... Python and BASH
+- :technologist: 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
